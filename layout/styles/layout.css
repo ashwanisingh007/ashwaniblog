@@ -49,7 +49,7 @@ File: Layout CSS
 
 #pageintro .introtxt{display:block; max-width:50%;}
 #pageintro .introtxt .heading{margin-bottom:30px; font-size:42px;}
-#pageintro .introtxt p{margin-bottom:30px; font-size:24px; line-height:normal;}
+#pageintro .introtxt p{margin-bottom:30px; font-size:24px; line-height:normal;color:#ffffff;}
 
 
 /* Content Area
